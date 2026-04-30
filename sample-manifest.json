@@ -1,12 +1,12 @@
 {
-  "export_job_id": "90bd1b73-cf84-4a6e-8b2d-ad260395d515",
+  "export_job_id": "60f2a770-6a30-4471-acd9-54b99dd7ab41",
   "id_short": 538784,
-  "published_at": "2026-04-22T19:53:11Z",
+  "published_at": "2026-04-30T07:35:33Z",
   "repo_name": "restaurant-verified-email-access-in-maryland-us-sample-538784",
   "sample_asset_name": "beamstation_538784_restaurants-us-md_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/538784/beamstation_538784_restaurants-us-md_SAMPLE_DIST.csv",
-  "sample_records": 232,
-  "sample_sha256": "03415da104379fdb7f0921f31558300a84e06fbb327077a63224a7cb8b8bf957",
-  "sample_size_bytes": 919348,
-  "total_records": 2327
+  "sample_records": 260,
+  "sample_sha256": "697f373fff84fa4b310c77dcd5b441b455de8a4770b2c0f53a2343c6ae42ed10",
+  "sample_size_bytes": 988951,
+  "total_records": 2602
 }
